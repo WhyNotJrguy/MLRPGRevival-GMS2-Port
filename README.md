@@ -18,9 +18,23 @@ The engine contains:
 
 Music composed by Jonas Evant.
 
+    DEFAULT CONTROLS:
+    X - Brother in front jumps, Mario's button in battle
+    Z - Brother in back jumps, Luigi's button in battle
+    Q - Front Move Selection (Hammer, Fire/Thunder, Jump)
+    W - Back Move Selection (High/Spin, Hammer, Fire/Thunder, Jump)
+    Q+W - Default Bros Moves
+    Enter - Switch Mario and Luigi
+    Arrow Keys - Move/Select
     
-
-
+    MISCELLANEOUS CONTROLS:
+    F2 - Restart Game
+    F4 - Change Game Window Size
+    
+    DEBUG CONTROLS:
+    T - Enable all Overworld moves
+    E - Save game
+    
     FREQUENT QUESTIONS:
     Q. How do I change the screen resolution?
     A. Press F4 to switch to full screen.
