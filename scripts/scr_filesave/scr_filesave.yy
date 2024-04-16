@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_filesave",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_filesave",
+  "parent":{
+    "name":"Saving",
+    "path":"folders/Scripts/Game/Saving.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

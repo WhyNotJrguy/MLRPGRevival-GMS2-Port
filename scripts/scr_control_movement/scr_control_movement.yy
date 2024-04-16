@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_control_movement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_control_movement",
+  "parent":{
+    "name":"Movement",
+    "path":"folders/Scripts/Player/Movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_luigi_auhhh",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":192,
+  "compression":1,
+  "conversionMode":0,
+  "duration":0.722012,
+  "name":"snd_luigi_auhhh",
+  "parent":{
+    "name":"Luigi",
+    "path":"folders/Sounds/Voices/Luigi.yy",
+  },
+  "preload":true,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_luigi_auhhh",
+  "type":0,
+  "volume":1.0,
+}

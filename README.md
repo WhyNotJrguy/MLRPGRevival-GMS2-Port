@@ -1,5 +1,5 @@
 
-Mario and Luigi Revival Game Engine Project
+Mario and Luigi Revival Game Engine Project (GMS2 Port)
 ---
 
 This is an open-source Mario & Luigi RPG engine for Game Maker Studio.
@@ -51,5 +51,5 @@ Music composed by Jonas Evant.
     Q. Where can I find more information about the game?
     A. You can find updates on the game on the Discord server: https://discord.gg/UCZFZdc
 
-COMPATIBLE WITH WINDOWS 7 and up.
+COMPATIBLE WITH WINDOWS 10 and up.
 

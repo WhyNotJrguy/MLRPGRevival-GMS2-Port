@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_battlelist",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_battlelist",
+  "parent":{
+    "name":"Globals",
+    "path":"folders/Scripts/Game/Globals.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

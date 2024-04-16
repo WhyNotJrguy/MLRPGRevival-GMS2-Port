@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_collision_checking",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_collision_checking",
+  "parent":{
+    "name":"Movement",
+    "path":"folders/Scripts/Player/Movement.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

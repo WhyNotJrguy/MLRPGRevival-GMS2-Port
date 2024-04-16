@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_MarioBonusLevels",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_MarioBonusLevels",
+  "parent":{
+    "name":"Levels",
+    "path":"folders/Scripts/Levels.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

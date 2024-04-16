@@ -1,0 +1,566 @@
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_battlelist\scr_battlelist.gml
+Converted builtin - line 25: background_index[0] = bg_battle_grassland -> __background_set( e__BG.Index, 0, bg_battle_grassland )
+Converted builtin - line 38: background_index[0] = bg_battle_grassland -> __background_set( e__BG.Index, 0, bg_battle_grassland )
+Converted builtin - line 52: background_index[0] = bg_battle_grassland -> __background_set( e__BG.Index, 0, bg_battle_grassland )
+Converted builtin - line 66: background_index[0] = bg_bowserbox -> __background_set( e__BG.Index, 0, bg_bowserbox )
+Converted builtin - line 69: background_index[1] = tl_battle_castle_floor -> __background_set( e__BG.Index, 1, tl_battle_castle_floor )
+Converted builtin - line 85: background_index[0] = bg_battle_makilu_castle -> __background_set( e__BG.Index, 0, bg_battle_makilu_castle )
+Converted builtin - line 99: background_index[0] = bg_battle_makilu_castle -> __background_set( e__BG.Index, 0, bg_battle_makilu_castle )
+Converted builtin - line 114: background_index[0] = bg_bowserbox -> __background_set( e__BG.Index, 0, bg_bowserbox )
+Converted builtin - line 117: background_index[1] = bg_battle_bowser_throne -> __background_set( e__BG.Index, 1, bg_battle_bowser_throne )
+Converted builtin - line 133: background_index[0] = bg_battle_grassland -> __background_set( e__BG.Index, 0, bg_battle_grassland )
+Converted builtin - line 147: background_index[0] = bg_battle_peach_hall -> __background_set( e__BG.Index, 0, bg_battle_peach_hall )
+Converted builtin - line 161: background_index[0] = bg_battle_beach -> __background_set( e__BG.Index, 0, bg_battle_beach )
+Converted builtin - line 176: background_index[0] = bg_battle_forest -> __background_set( e__BG.Index, 0, bg_battle_forest )
+Converted builtin - line 188: background_index[0] = bg_battle_grassland -> __background_set( e__BG.Index, 0, bg_battle_grassland )
+Converted builtin - line 202: background_index[0] = bg_desert_sky -> __background_set( e__BG.Index, 0, bg_desert_sky )
+Converted builtin - line 203: background_index[1] = bg_desert_fg -> __background_set( e__BG.Index, 1, bg_desert_fg )
+Converted builtin - line 204: background_index[2] = bg_desert_sands -> __background_set( e__BG.Index, 2, bg_desert_sands )
+Converted builtin - line 86: background_x[0] = -200 -> __background_set( e__BG.X, 0, -200 )
+Converted builtin - line 100: background_x[0] = -200 -> __background_set( e__BG.X, 0, -200 )
+Converted builtin - line 118: background_x[1] = -120 -> __background_set( e__BG.X, 1, -120 )
+Converted builtin - line 148: background_x[0] = -12 -> __background_set( e__BG.X, 0, -12 )
+Converted builtin - line 162: background_x[0] = -200 -> __background_set( e__BG.X, 0, -200 )
+Converted builtin - line 205: background_x[1] = -120 -> __background_set( e__BG.X, 1, -120 )
+Converted builtin - line 26: background_y[0] = -475 -> __background_set( e__BG.Y, 0, -475 )
+Converted builtin - line 39: background_y[0] = -475 -> __background_set( e__BG.Y, 0, -475 )
+Converted builtin - line 53: background_y[0] = -475 -> __background_set( e__BG.Y, 0, -475 )
+Converted builtin - line 67: background_y[0] = -100 -> __background_set( e__BG.Y, 0, -100 )
+Converted builtin - line 71: background_y[1] = 96 -> __background_set( e__BG.Y, 1, 96 )
+Converted builtin - line 87: background_y[0] = -464 -> __background_set( e__BG.Y, 0, -464 )
+Converted builtin - line 101: background_y[0] = -464 -> __background_set( e__BG.Y, 0, -464 )
+Converted builtin - line 115: background_y[0] = -150 -> __background_set( e__BG.Y, 0, -150 )
+Converted builtin - line 119: background_y[1] = -166 -> __background_set( e__BG.Y, 1, -166 )
+Converted builtin - line 134: background_y[0] = -475 -> __background_set( e__BG.Y, 0, -475 )
+Converted builtin - line 149: background_y[0] = -126 -> __background_set( e__BG.Y, 0, -126 )
+Converted builtin - line 163: background_y[0] = -224 -> __background_set( e__BG.Y, 0, -224 )
+Converted builtin - line 189: background_y[0] = -475 -> __background_set( e__BG.Y, 0, -475 )
+Converted builtin - line 206: background_y[1] = -100 -> __background_set( e__BG.Y, 1, -100 )
+Converted builtin - line 70: background_vtiled[1] = false -> __background_set( e__BG.VTiled, 1, false )
+Converted builtin - line 68: background_hspeed[0] = 0.2 -> __background_set( e__BG.HSpeed, 0, 0.2 )
+Converted builtin - line 116: background_hspeed[0] = 0.2 -> __background_set( e__BG.HSpeed, 0, 0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_filesave\scr_filesave.gml
+Converted description /// @description scr_filesave(file)/// @param file
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_fileload\scr_fileload.gml
+Converted description /// @description scr_fileload(file)/// @param file
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_draw_numbers\scr_draw_numbers.gml
+Converted description /// @description scr_draw_numbers(x,y,number,digits,xscale,yscale,rotation,color,alpha,sprite)/// @param x
+/// @param y
+/// @param number
+/// @param digits
+/// @param xscale
+/// @param yscale
+/// @param rotation
+/// @param color
+/// @param alpha
+/// @param sprite
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_draw_numbers_empty\scr_draw_numbers_empty.gml
+Converted description /// @description scr_draw_numbers_empty(x,y,number,digits,xscale,yscale,rotation,color,alpha)/// @param x
+/// @param y
+/// @param number
+/// @param digits
+/// @param xscale
+/// @param yscale
+/// @param rotation
+/// @param color
+/// @param alpha
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_draw_numbers_blue\scr_draw_numbers_blue.gml
+Converted description /// @description scr_draw_numbers_blue(x,y,number,digits,xscale,yscale,rotation,color,alpha,sprite)/// @param x
+/// @param y
+/// @param number
+/// @param digits
+/// @param xscale
+/// @param yscale
+/// @param rotation
+/// @param color
+/// @param alpha
+/// @param sprite
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\scr_draw_numbers_empty_blue\scr_draw_numbers_empty_blue.gml
+Converted description /// @description scr_draw_numbers_empty(x,y,number,digits,xscale,yscale,rotation,color,alpha)/// @param x
+/// @param y
+/// @param number
+/// @param digits
+/// @param xscale
+/// @param yscale
+/// @param rotation
+/// @param color
+/// @param alpha
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\scripts\audio_loop_sound\audio_loop_sound.gml
+Converted builtin - line 14: view_xview[view_current] -> __view_get( e__VW.XView, view_current )
+Converted builtin - line 14: view_yview[view_current] -> __view_get( e__VW.YView, view_current )
+Converted description /// @description audio_loop_sound(sound,sample_begin,sample_end,sample_rate,priority)/// @param sound
+/// @param sample_begin
+/// @param sample_end
+/// @param sample_rate
+/// @param priority
+
+GameMaker Studio 1 font texture has been backed up at C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\fonts\Mario_font\Mario_font.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\fonts\fnt_enemyname\fnt_enemyname.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\fonts\fnt_items\fnt_items.gms1.png
+GameMaker Studio 1 font texture has been backed up at C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\fonts\fnt_icon\fnt_icon.gms1.png
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\init_intro\Alarm_1.gml
+Converted builtin - line 1: background_visible[0] = false -> __background_set( e__BG.Visible, 0, false )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\init_intro\Alarm_0.gml
+Converted builtin - line 1: background_alpha[0] -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 3: background_alpha[0] -= 0.1 -> __background_set( e__BG.Alpha, 0, __background_get( e__BG.Alpha, 0 ) - (0.1) )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_view\Other_10.gml
+Converted builtin - line 70: background_hspeed[i] -> __background_get( e__BG.HSpeed, i )
+Converted builtin - line 71: background_vspeed[i] -> __background_get( e__BG.VSpeed, i )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_view\Other_4.gml
+Converted builtin - line 41: background_hspeed[i] = bck_hspeed[i] -> __background_set( e__BG.HSpeed, i, bck_hspeed[i] )
+Converted builtin - line 42: background_vspeed[i] = bck_vspeed[i] -> __background_set( e__BG.VSpeed, i, bck_vspeed[i] )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_view\Draw_0.gml
+Converted builtin - line 15: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 39: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 41: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 43: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 45: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 50: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 52: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 54: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 59: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 66: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 68: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 72: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 74: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 76: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 81: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 83: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 85: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 91: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 93: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 97: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 99: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 101: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 106: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 108: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 110: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 39: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 41: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 45: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 50: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 52: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 54: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 59: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 66: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 68: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 72: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 74: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 76: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 81: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 83: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 85: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 91: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 93: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 97: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 99: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 101: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 106: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 108: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 110: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mplayer\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mplayer_mini\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_lplayer\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_lplayer_2\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_lplayer_dunk\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mplayer_2\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fire\Step_2.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_thunder\Step_2.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_lplayer_change\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_electric\Step_2.gml
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_torch\Step_2.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_dark\Create_0.gml
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_dark\Step_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_dark\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_light\Step_2.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mariob\Alarm_3.gml
+Converted builtin - line 2: background_visible[7] -> __background_get( e__BG.Visible, 7 )
+Converted builtin - line 3: background_visible[7] = false -> __background_set( e__BG.Visible, 7, false )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mariob\Collision_ee1c7c13-acfa-4f63-b2ea-032bdba44390.gml
+Converted builtin - line 85: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mariob\Other_12.gml
+Converted builtin - line 74: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mariob\Other_11.gml
+Converted builtin - line 38: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_mariob\Other_10.gml
+Converted builtin - line 28: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_luigib\Alarm_3.gml
+Converted builtin - line 2: background_visible[7] -> __background_get( e__BG.Visible, 7 )
+Converted builtin - line 3: background_visible[7] = false -> __background_set( e__BG.Visible, 7, false )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_luigib\Collision_94b2c735-b1ba-4245-83b0-efe6e242bd68.gml
+Converted builtin - line 85: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_luigib\Other_12.gml
+Converted builtin - line 74: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_luigib\Other_11.gml
+Converted builtin - line 38: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_luigib\Other_10.gml
+Converted builtin - line 29: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_brosattack\Destroy_0.gml
+Converted builtin - line 11: background_visible[7] -> __background_get( e__BG.Visible, 7 )
+Converted builtin - line 12: background_visible[7] = false -> __background_set( e__BG.Visible, 7, false )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_brosattack\Alarm_3.gml
+Converted builtin - line 2: background_visible[7] -> __background_get( e__BG.Visible, 7 )
+Converted builtin - line 3: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_levelupbonus\Alarm_4.gml
+Converted builtin - line 2: background_alpha -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 4: background_alpha[0] -= 0.1 -> __background_set( e__BG.Alpha, 0, __background_get( e__BG.Alpha, 0 ) - (0.1) )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_levelupbonus\Alarm_3.gml
+Converted builtin - line 23: background_alpha -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 27: background_alpha[0] -= 0.1 -> __background_set( e__BG.Alpha, 0, __background_get( e__BG.Alpha, 0 ) - (0.1) )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_levelupbonus\Step_0.gml
+Converted builtin - line 103: background_colour[0] = c_black -> __background_set_colour( c_black )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlecontrol\Alarm_6.gml
+Converted builtin - line 12: background_visible[7] = false -> __background_set( e__BG.Visible, 7, false )
+Converted builtin - line 15: background_visible[1] = false -> __background_set( e__BG.Visible, 1, false )
+Converted builtin - line 16: background_visible[2] = false -> __background_set( e__BG.Visible, 2, false )
+Converted builtin - line 17: background_visible[3] = false -> __background_set( e__BG.Visible, 3, false )
+Converted builtin - line 18: background_visible[4] = false -> __background_set( e__BG.Visible, 4, false )
+Converted builtin - line 19: background_visible[5] = false -> __background_set( e__BG.Visible, 5, false )
+Converted builtin - line 20: background_visible[6] = false -> __background_set( e__BG.Visible, 6, false )
+Converted builtin - line 10: background_index[0] = bg_levelup -> __background_set( e__BG.Index, 0, bg_levelup )
+Converted builtin - line 13: background_hspeed[0] = -1 -> __background_set( e__BG.HSpeed, 0, -1 )
+Converted builtin - line 14: background_vspeed[0] = -0.75 -> __background_set( e__BG.VSpeed, 0, -0.75 )
+Converted builtin - line 31: background_alpha[0] -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 11: background_alpha = 1 -> __background_set( e__BG.Alpha, 0, 1 )
+Converted builtin - line 33: background_alpha[0] -= 0.1 -> __background_set( e__BG.Alpha, 0, __background_get( e__BG.Alpha, 0 ) - (0.1) )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlecontrol\Alarm_5.gml
+Converted builtin - line 12: background_visible[7] = false -> __background_set( e__BG.Visible, 7, false )
+Converted builtin - line 15: background_visible[1] = false -> __background_set( e__BG.Visible, 1, false )
+Converted builtin - line 16: background_visible[2] = false -> __background_set( e__BG.Visible, 2, false )
+Converted builtin - line 17: background_visible[3] = false -> __background_set( e__BG.Visible, 3, false )
+Converted builtin - line 18: background_visible[4] = false -> __background_set( e__BG.Visible, 4, false )
+Converted builtin - line 19: background_visible[5] = false -> __background_set( e__BG.Visible, 5, false )
+Converted builtin - line 20: background_visible[6] = false -> __background_set( e__BG.Visible, 6, false )
+Converted builtin - line 10: background_index[0] = bg_levelup -> __background_set( e__BG.Index, 0, bg_levelup )
+Converted builtin - line 13: background_hspeed[0] = -1 -> __background_set( e__BG.HSpeed, 0, -1 )
+Converted builtin - line 14: background_vspeed[0] = -0.75 -> __background_set( e__BG.VSpeed, 0, -0.75 )
+Converted builtin - line 31: background_alpha[0] -> __background_get( e__BG.Alpha, 0 )
+Converted builtin - line 11: background_alpha = 1 -> __background_set( e__BG.Alpha, 0, 1 )
+Converted builtin - line 33: background_alpha[0] -= 0.1 -> __background_set( e__BG.Alpha, 0, __background_get( e__BG.Alpha, 0 ) - (0.1) )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlecontrol\Other_13.gml
+Converted builtin - line 36: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+Converted builtin - line 35: background_index[7] = bg_darkened -> __background_set( e__BG.Index, 7, bg_darkened )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlecontrol\Other_12.gml
+Converted builtin - line 7: background_visible[7] = true -> __background_set( e__BG.Visible, 7, true )
+Converted builtin - line 6: background_index[7] = bg_darkened -> __background_set( e__BG.Index, 7, bg_darkened )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlestart\Step_1.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battlestart\Other_4.gml
+Converted builtin - line 1: background_alpha = 1 -> __background_set( e__BG.Alpha, 0, 1 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_creditstext\Create_0.gml
+String not found: ConversionLog_ConvertedString 3 '!' "!"
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadein\Create_0.gml
+Converted description /// @description Fade the screen in.
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadein\Step_2.gml
+Converted description /// @description Increment alpha until the screen is faded completely
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadein\Draw_0.gml
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Draw the effect.
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadeout\Create_0.gml
+Converted description /// @description Fade the screen out.
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadeout\Step_2.gml
+Converted description /// @description Destroy after fading out completely.
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_fadeout\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted description /// @description Draw the effect.
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_battleselectbeta_nx\Step_0.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_audio_loop_sound\Step_1.gml
+Converted description /// @description Loop
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\objects\obj_debugger\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rm_FileSelect\RoomCreationCode.gml
+Converted builtin - line 1: background_hspeed[0] = -0.2 -> __background_set( e__BG.HSpeed, 0, -0.2 )
+Converted builtin - line 2: background_vspeed[0] = -0.2 -> __background_set( e__BG.VSpeed, 0, -0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rmBowserCastleThroneRoom\RoomCreationCode.gml
+Converted builtin - line 1: background_hspeed[0] = 0.2 -> __background_set( e__BG.HSpeed, 0, 0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rmBowserCastleEastHallb\RoomCreationCode.gml
+Converted builtin - line 1: background_hspeed[0] = 0.2 -> __background_set( e__BG.HSpeed, 0, 0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rmNedvataDesert\RoomCreationCode.gml
+Converted builtin - line 7: background_hspeed[0] = -0.2 -> __background_set( e__BG.HSpeed, 0, -0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rmCredits\RoomCreationCode.gml
+Converted builtin - line 1: background_hspeed[0] = -0.2 -> __background_set( e__BG.HSpeed, 0, -0.2 )
+
+Converting GML script: C:\Users\Jared\Documents\GameMakerStudio2\MLRPGRevival\mvc\rooms\rm_BattleTest\RoomCreationCode.gml
+Converted builtin - line 1: background_hspeed[0] = 0.2 -> __background_set( e__BG.HSpeed, 0, 0.2 )
+Converted builtin - line 2: background_hspeed[1] = 0.4 -> __background_set( e__BG.HSpeed, 1, 0.4 )
+
+Missing audiogroup for sound: 'snd_hammer_dunk' - setting to default audio group
+Missing audiogroup for sound: 'snd_running' - setting to default audio group
+Missing audiogroup for sound: 'snd_talking' - setting to default audio group
+Missing audiogroup for sound: 'snd_thunder_shocking' - setting to default audio group
+Missing audiogroup for sound: 'snd_thunder_shoot' - setting to default audio group
+Missing audiogroup for sound: 'snd_thundercharged' - setting to default audio group
+Missing audiogroup for sound: 'snd_thundercharging' - setting to default audio group
+Missing audiogroup for sound: 'snd_unshrink' - setting to default audio group
+Missing audiogroup for sound: 'snd_churn' - setting to default audio group
+Missing audiogroup for sound: 'snd_fire_running' - setting to default audio group
+Missing audiogroup for sound: 'snd_fire_shoot' - setting to default audio group
+Missing audiogroup for sound: 'snd_firecharged' - setting to default audio group
+Missing audiogroup for sound: 'snd_firecharging' - setting to default audio group
+Missing audiogroup for sound: 'snd_grow' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_high' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_mini' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_spin' - setting to default audio group
+Missing audiogroup for sound: 'snd_allattackparts' - setting to default audio group
+Missing audiogroup for sound: 'snd_arrowpoint' - setting to default audio group
+Missing audiogroup for sound: 'snd_bossdead' - setting to default audio group
+Missing audiogroup for sound: 'snd_falling' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump' - setting to default audio group
+Missing audiogroup for sound: 'snd_hammer' - setting to default audio group
+Missing audiogroup for sound: 'snd_confirm' - setting to default audio group
+Missing audiogroup for sound: 'snd_incorrect' - setting to default audio group
+Missing audiogroup for sound: 'snd_fall' - setting to default audio group
+Missing audiogroup for sound: 'snd_badge' - setting to default audio group
+Missing audiogroup for sound: 'snd_strike' - setting to default audio group
+Missing audiogroup for sound: 'snd_hit' - setting to default audio group
+Missing audiogroup for sound: 'snd_vacuum' - setting to default audio group
+Missing audiogroup for sound: 'snd_coin' - setting to default audio group
+Missing audiogroup for sound: 'snd_item' - setting to default audio group
+Missing audiogroup for sound: 'snd_item_use' - setting to default audio group
+Missing audiogroup for sound: 'snd_spin' - setting to default audio group
+Missing audiogroup for sound: 'snd_takedamage' - setting to default audio group
+Missing audiogroup for sound: 'snd_throw' - setting to default audio group
+Missing audiogroup for sound: 'snd_enemy_dead' - setting to default audio group
+Missing audiogroup for sound: 'snd_boss_dead' - setting to default audio group
+Missing audiogroup for sound: 'snd_beach_waves' - setting to default audio group
+Missing audiogroup for sound: 'snd_desert_wind' - setting to default audio group
+Missing audiogroup for sound: 'snd_charge_up' - setting to default audio group
+Missing audiogroup for sound: 'snd_delete_file' - setting to default audio group
+Missing audiogroup for sound: 'snd_roulette' - setting to default audio group
+Missing audiogroup for sound: 'snd_hammerout' - setting to default audio group
+Missing audiogroup for sound: 'snd_equip' - setting to default audio group
+Missing audiogroup for sound: 'snd_pause' - setting to default audio group
+Missing audiogroup for sound: 'snd_levelup' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_thunder' - setting to default audio group
+Missing audiogroup for sound: 'snd_pan' - setting to default audio group
+Missing audiogroup for sound: 'snd_popout' - setting to default audio group
+Missing audiogroup for sound: 'snd_rankup' - setting to default audio group
+Missing audiogroup for sound: 'snd_rankup_jingle' - setting to default audio group
+Missing audiogroup for sound: 'snd_movein' - setting to default audio group
+Missing audiogroup for sound: 'snd_rise' - setting to default audio group
+Missing audiogroup for sound: 'snd_attack_parts_complete' - setting to default audio group
+Missing audiogroup for sound: 'snd_select' - setting to default audio group
+Missing audiogroup for sound: 'snd_choose' - setting to default audio group
+Missing audiogroup for sound: 'snd_cancel' - setting to default audio group
+Missing audiogroup for sound: 'snd_turnpage' - setting to default audio group
+Missing audiogroup for sound: 'snd_okhit' - setting to default audio group
+Missing audiogroup for sound: 'snd_goodhit' - setting to default audio group
+Missing audiogroup for sound: 'snd_greathit' - setting to default audio group
+Missing audiogroup for sound: 'snd_excellenthit' - setting to default audio group
+Missing audiogroup for sound: 'snd_spendcoins' - setting to default audio group
+Missing audiogroup for sound: 'snd_step' - setting to default audio group
+Missing audiogroup for sound: 'snd_boss_exploding' - setting to default audio group
+Missing audiogroup for sound: 'snd_luckyhit' - setting to default audio group
+Missing audiogroup for sound: 'snd_criticalhit' - setting to default audio group
+Missing audiogroup for sound: 'snd_miss' - setting to default audio group
+Missing audiogroup for sound: 'snd_kick' - setting to default audio group
+Missing audiogroup for sound: 'snd_powerup' - setting to default audio group
+Missing audiogroup for sound: 'snd_fireball' - setting to default audio group
+Missing audiogroup for sound: 'mus_Title' - setting to default audio group
+Missing audiogroup for sound: 'mus_FileSelect' - setting to default audio group
+Missing audiogroup for sound: 'mus_Overworld' - setting to default audio group
+Missing audiogroup for sound: 'mus_Battle' - setting to default audio group
+Missing audiogroup for sound: 'mus_Battle2' - setting to default audio group
+Missing audiogroup for sound: 'mus_Boss' - setting to default audio group
+Missing audiogroup for sound: 'mus_Fanfare' - setting to default audio group
+Missing audiogroup for sound: 'mus_BowserCastle' - setting to default audio group
+Missing audiogroup for sound: 'mus_BowserBattle' - setting to default audio group
+Missing audiogroup for sound: 'mus_BadGuyBattle' - setting to default audio group
+Missing audiogroup for sound: 'mus_Forest' - setting to default audio group
+Missing audiogroup for sound: 'mus_Beach' - setting to default audio group
+Missing audiogroup for sound: 'mus_Desert' - setting to default audio group
+Missing audiogroup for sound: 'mus_FinalBoss' - setting to default audio group
+Missing audiogroup for sound: 'mus_StaffRoll' - setting to default audio group
+Missing audiogroup for sound: 'mus_GameOver' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_relief' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_letsgo' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_gotit' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_ehee' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_yummy' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_spin' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_head_spin' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_woah' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_eek' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_mamamia' - setting to default audio group
+Missing audiogroup for sound: 'snd_mario_cry_for_luigi' - setting to default audio group
+Missing audiogroup for sound: 'snd_mplayer_jump' - setting to default audio group
+Missing audiogroup for sound: 'snd_mplayer_hammer' - setting to default audio group
+Missing audiogroup for sound: 'snd_mplayer_fire' - setting to default audio group
+Missing audiogroup for sound: 'snd_mplayer_letsgo' - setting to default audio group
+Missing audiogroup for sound: 'snd_mplayer_spin' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_help' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_hohoo' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_hahaha' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_yahoo' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_auhhh' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_okeydokey' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_mamamia' - setting to default audio group
+Missing audiogroup for sound: 'snd_luigi_cry_for_mario' - setting to default audio group
+Missing audiogroup for sound: 'snd_lplayer_high' - setting to default audio group
+Missing audiogroup for sound: 'snd_lplayer_hammer' - setting to default audio group
+Missing audiogroup for sound: 'snd_lplayer_jump' - setting to default audio group
+Missing audiogroup for sound: 'snd_lplayer_okiedokie' - setting to default audio group
+Missing audiogroup for sound: 'snd_lplayer_thunder' - setting to default audio group
+Missing audiogroup for sound: 'snd_bowser_showtime' - setting to default audio group
+Missing audiogroup for sound: 'snd_startup' - setting to default audio group
+Game speed set to 40
+Added compatibility script 'action\action_fullscreen.gml'
+Added compatibility script 'background\background_create_from_surface.gml'
+Added compatibility script 'background\background_exists.gml'
+Added compatibility script 'background\draw_background.gml'
+Added compatibility script 'background\__background_get.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_colour.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'draw\draw_enable_alphablend.gml'
+Added compatibility script 'draw\draw_set_blend_mode.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_loop.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'sound\sound_stop.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_colour_element.gml'
+Added compatibility script '__global_object_depths.gml'

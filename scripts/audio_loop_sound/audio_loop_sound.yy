@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"audio_loop_sound",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"audio_loop_sound",
+  "parent":{
+    "name":"Audio",
+    "path":"folders/Scripts/Audio.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,2 @@
+global.electrocute = 0;
+

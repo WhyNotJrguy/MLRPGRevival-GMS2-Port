@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_LuigiNextLevel",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_LuigiNextLevel",
+  "parent":{
+    "name":"Levels",
+    "path":"folders/Scripts/Levels.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
